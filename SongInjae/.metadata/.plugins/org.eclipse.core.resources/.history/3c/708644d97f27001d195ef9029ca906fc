@@ -1,0 +1,5 @@
+package com.myspring.common.interceptor;
+
+public class InterceptorConfig {
+
+}

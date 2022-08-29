@@ -1,0 +1,14 @@
+1661751469957	Delete element
+1661751936433	Rename package 'com.myspring.member.VO'
+1661751978274	Rename package 'com.myspring.member.vo'
+1661754661333	Delete element
+1661754884088	Rename package 'com.myspring.member.DAO'
+1661754895285	Rename package 'com.myspring.member.VO'
+1661755127162	Rename resource 'modelConfig.xml'
+1661755236813	Rename package 'mybatist.mappers'
+1661757979426	Delete element
+1661758037953	Delete elements
+1661759986484	Move 'main.jsp' to 'views'
+1661760907134	Rename package 'common.tiles'
+1661762057515	Rename resource 'tiles_member.xml'
+1661762063449	Rename resource 'tilesl'
